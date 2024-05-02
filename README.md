@@ -1,5 +1,5 @@
 # CS6240 Project Final Submission
-The following github repository is the submission for the group consisting of Komal Pardeshi and Sean Yu. The repository is largely adapted from the starter scala spark repository from the assignments. The execution section  several adaptations and specific instructions to run the code.
+This repository is the submission for the CS6240 project group Komal Pardeshi and Sean Yu. The project structure isadapted from template repository followed for the course assignments.The report for this project is ![here](https://github.com/kokomocha/matrix-multiplication-inversion/blob/main/Report-Matrix-Multipication-Matrix-Inversion.pdf). 
 
 
 Author
